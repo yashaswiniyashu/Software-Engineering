@@ -1,1 +1,4 @@
-# Software-Engineering
+# Software-Engineering-eLMS
+The project aims at improving the efficiency in the online education and reduces the complexities involved to the maximum possible extent. 
+Home-schooled students, part-time workers, college/school going students, people who want to restart their career, if they want to do some courses outside their daily routine or curriculum, they need flexible hours to study. Online education is receiving a lot of attention these days due to flexibility of learning hours and the huge content of information available. This website can be used by parents, students and mentors. It aims at making online education flexible. So this system uses several programming and database techniques to elucidate the work involved in this process. As this is a matter of Security, the system has been carefully verified and validated in order to satisfy it.
+The System provides an online interface to the parent and teacher where they can view Information about student’s performance. It provides a communication platform between the teacher, parent, student and the administrator.
